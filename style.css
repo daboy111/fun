@@ -1,0 +1,29 @@
+canvas{
+    border-width: 3px;
+    border-color: cyan;
+    border-style: ridge;
+    background-color: white;
+    
+    }
+    h1{
+    color: cyan;
+    text-shadow: 10px 10px 2px rgb(13, 0, 255);
+    }
+    button{
+    box-shadow: 10px 10px 2px cyan;
+    background-color: blue;
+    color: red;
+    }
+    input{
+    color: red;
+    background-color: yellowgreen;
+    }
+    span{
+        color: black;
+        text-shadow: 5px 5px 2px darkblue;
+    
+    }
+    body{
+    background-size: cover;
+    
+    }
